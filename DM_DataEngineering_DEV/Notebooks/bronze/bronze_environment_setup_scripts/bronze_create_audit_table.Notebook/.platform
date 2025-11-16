@@ -2,10 +2,10 @@
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
   "metadata": {
     "type": "Notebook",
-    "displayName": "nb_Prepare_Data"
+    "displayName": "bronze_create_audit_table"
   },
   "config": {
     "version": "2.0",
-    "logicalId": "5a160a8a-1755-85df-4192-11c32c8a9354"
+    "logicalId": "1e4437c7-0096-93df-4ba5-519e186cea6d"
   }
 }
